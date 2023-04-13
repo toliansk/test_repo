@@ -1,6 +1,6 @@
 // Simple C program to display "Hello World"
 // Pik pak
-//Puk puk
+//Puk pukjgk
 
 // Header file for input output functions
 #include <stdio.h>
