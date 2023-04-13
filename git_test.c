@@ -1,6 +1,5 @@
 // Simple C program to display "Hello World"
-// Pik pak
-//Puk pukjgk
+// Anatolys files
 
 // Header file for input output functions
 #include <stdio.h>
